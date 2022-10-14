@@ -1,3 +1,17 @@
+# Stackline - Front End Engineer Assessment
+
+## Requirements: 
+1. A solution that resembles the provided mockup closely and implements AT LEAST ONE of either the graph or table as seen in the mockup
+2. A working solution that takes the provided JSON file as output from a mock API call
+3. A solution that implements React and Redux best practices and patterns
+4. Clean, easy to follow code
+
+## Submissions:
+
+Public repository: https://github.com/tdphuochoang/stackline_assessment
+
+Public URL: https://tdphuochoang.github.io/stackline_assessment/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

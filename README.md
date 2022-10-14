@@ -12,6 +12,11 @@ Public repository: https://github.com/tdphuochoang/stackline_assessment
 
 Public URL: https://tdphuochoang.github.io/stackline_assessment/
 
+## Website Screenshot:
+
+![WebsiteScreenshot](https://user-images.githubusercontent.com/97856004/195902150-206619bb-2f6e-437e-9789-d9a7376060ae.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

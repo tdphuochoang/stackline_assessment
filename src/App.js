@@ -6,6 +6,7 @@ import { useEffect } from "react";
 import { useDispatch } from "react-redux";
 import { getProducts } from "./redux/productSlice";
 import Chart from "./components/Chart";
+import Table from "./components/Table";
 
 const MainContainer = styled.div`
 	display: grid;
@@ -28,6 +29,7 @@ function App() {
 			<MainContainer>
 				<Product />
 				<Chart />
+				<Table />
 			</MainContainer>
 		</>
 	);

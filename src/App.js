@@ -5,6 +5,7 @@ import Product from "./components/Product";
 import { useEffect } from "react";
 import { useDispatch } from "react-redux";
 import { getProducts } from "./redux/productSlice";
+import Chart from "./components/Chart";
 
 const MainContainer = styled.div`
 	display: grid;
@@ -26,6 +27,7 @@ function App() {
 			<Header />
 			<MainContainer>
 				<Product />
+				<Chart />
 			</MainContainer>
 		</>
 	);

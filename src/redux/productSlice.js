@@ -17,7 +17,7 @@ export const getProducts = createAsyncThunk(
 	async (_, thunkAPI) => {
 		try {
 			const res = await axios.get(
-				"/data/stackline_frontend_assessment_data_2021.json"
+				"./data/stackline_frontend_assessment_data_2021.json"
 			);
 			return res.data;
 		} catch (err) {
